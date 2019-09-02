@@ -1,3 +1,2 @@
-# DictionaryProj
+# DictionaryProj (in c++)
 read promptDoc.htm
-(in c++)
