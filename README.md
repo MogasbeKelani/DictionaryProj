@@ -1,0 +1,2 @@
+# DictionaryProj
+read promptDoc.htm
