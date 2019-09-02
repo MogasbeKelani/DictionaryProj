@@ -1,1 +1,2 @@
-* linguistic-language= C++
+*.html linguistic-language= C++
+*.html          text diff=html
